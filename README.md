@@ -1,4 +1,4 @@
-responsive-web
+Responsive Playground
 ==============
 
-Responsive Web Examples
+Where I'll be testing, breaking and fixing rather unexpected UI/UX experiences.
